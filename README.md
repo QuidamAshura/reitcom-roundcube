@@ -1,6 +1,6 @@
-Roundcube Webmail 
+Reitcom Webmail 
 =================
-[roundcube.net](https://roundcube.net)
+[mail.reitcom.net](https://mail.reitcom.net)
 
 [![Tests Status](https://github.com/roundcube/roundcubemail/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/roundcube/roundcubemail/actions/workflows/tests.yml)
 
